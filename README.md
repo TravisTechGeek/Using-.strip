@@ -1,0 +1,2 @@
+# Using-.strip
+Using .strip()
